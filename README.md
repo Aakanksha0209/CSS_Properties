@@ -21,3 +21,10 @@ You can learn more in the [Cascading Style Sheet Documentation](https://develope
 To find more properties and functions visit [W3Schools](https://www.w3schools.com/).
 
 ## Screenshots
+
+Borders & Fonts: </br>
+![Border Fonts](https://user-images.githubusercontent.com/56954344/129965534-fa3f80a2-0b23-4808-a5c2-5549b81e7df8.png)</br></br>
+Text: </br>
+![Text](https://user-images.githubusercontent.com/56954344/129965539-a0c7ff5c-8526-453f-8362-3a597e067aa7.png)</br></br>
+Animation: </br>
+![Animation](https://user-images.githubusercontent.com/56954344/129965525-6bfb2ba4-4128-479e-a034-b9866f0af2f4.png)</br>
