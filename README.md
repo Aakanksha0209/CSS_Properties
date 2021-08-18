@@ -4,6 +4,8 @@ This project was made with the use of HTML Tags & CSS Properties.
 
 ## CSS Properties Used:
 
+We have used external Cascading Style Sheet as well as inline so as to get a complete overview on how CSS works and how each property affects the component in a different way.
+
 In the project directory, you can find :
 
  `Background Color`</br> - Helps choose a background colour of your choice (Format: RGB, HEX).</br></br>
@@ -16,3 +18,4 @@ In the project directory, you can find :
 ## Learn More
 
 You can learn more in the [Cascading Style Sheet Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS).
+To find more properties and functions visit [W3Schools](https://www.w3schools.com/).
