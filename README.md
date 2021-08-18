@@ -15,8 +15,7 @@ In the project directory, you can find :
  `Border Styles`</br> - Helps apply various borders (Solid, dotted, dashes).</br></br>
  `Text Alignments`</br> - Helps align texts (Center, Left, Right).</br></br>
  
- These are some of the properties that were used while the development of this project. <br>
- You can find the [webpages here](https://github.com/amaandakhway1234/CSS_Properties/tree/main/Webpages)
+ These are some of the properties that were used while the development of this project. You can find the [webpages here](https://github.com/amaandakhway1234/CSS_Properties/tree/main/Webpages).<br>
 
 
 
@@ -35,3 +34,13 @@ Animation: </br>
 
 You can learn more in the [Cascading Style Sheet Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS).</br>
 To find more properties and functions visit [W3Schools](https://www.w3schools.com/).
+
+
+## References
+
+<ul
+    <li></li>
+    <li><a href = "https://www.w3schools.com/css/css_text_align.asp"/></li>
+    <li><a href = "https://www.thoughtco.com/index-html-page-3466505"/></li>
+    <li><a href = "https://www.creativebloq.com/inspiration/css-animation-examples">Webpages</a></li>
+    </ul>
