@@ -1,0 +1,229 @@
+body {
+  margin:0;
+  background-color: #F2F2ED;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*                      THIS IS FOR NAVIGATION BAR                    */
+
+.topnav {
+  font-family: sans-serif;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  border-right: 1px solid #bbb;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}	
+
+/*                         THIS IS FOR MAKING COLUMNS                       */
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*                          THIS IS FOR BORDERS                                */
+
+p{
+	font-size:20px;
+	padding:5px;
+	margin: 0 10px;
+	font-family: papyrus
+}
+
+p.dotted {
+	width: fit-content;
+	border-style: dotted;
+	border-color: red;
+}
+
+p.dashed {	
+	width: fit-content;
+	border-style: dashed;
+	border-color: blue;
+}
+
+p.solid {
+	width: fit-content;
+	border-style: solid;
+	border-color: yellow;
+}
+
+p.double {
+	border-style: double;
+	width: fit-content;
+	border-color:gray;
+}
+p.groove {
+	border-style: groove;
+	width: fit-content;
+	border-color:violet;
+}
+p.ridge {
+	border-style: ridge;
+	width: fit-content;
+	border-color:green;
+}
+
+p.inset {
+	width: fit-content;
+	border-style: inset;
+	border-color:orange;
+}
+
+p.outset {
+	width: fit-content;
+	border-style: outset;
+	border-color:gold;
+}
+
+p.none {
+	width: fit-content;
+	border-style: none;
+}
+
+p.hidden {
+	border-style: hidden;
+	width: fit-content;
+}
+
+p.mix {
+	width: fit-content;
+	border-style: dotted dashed solid double;
+	border-color:crimson;	
+}
+
+/*              THIS IS FOR FONTS               */
+
+p.times{	margin: 0 50px;}
+p.lucida{	margin: 0 50px;}
+p.arial{	margin: 0 50px;}
+p.monospace{	margin: 0 50px;}
+p.Papyrus{	margin: 0 50px;}
+p.Brush_Script_MT{	margin: 0 50px;}
+p.Courier_New{	margin: 0 50px;}
+p.Georgia{	margin: 0 50px;}
+
+
+/*              THIS IS FOR TEXT                 */
+
+.center{
+	text-align: center;
+	color: blue;
+	background-color: black;
+	background-size:fit-content;
+}
+
+.left{
+	text-align: left;
+	color: red;
+	background-color: black;
+}
+
+.right{
+	text-align: right;
+	color: yellow;
+	background-color: black;
+}
+
+/*           THIS IS FOR H1 TAG       */
+.h1{
+	font-family:arial;
+}
+
+/*      THIS IS FOR CHANGING COLOUR ANIMATION     */
+
+.colorchanging{
+	padding-top:20px;
+	font-size: 60px;
+	font-family:  monospace;
+	animation: color-change 5s infinite;
+}
+
+@keyframes color-change {
+  0% { color: red; }
+  10% {color: violet}
+  20% {color: indigo;}
+  30% {color: blue;}
+  40% {color: green;}
+  50% {color: yellow}
+  60% {color: orange}
+  70% {color: red;}
+}
+
+/*      THIS IS FOR SLIDING TEXT ANIMATION    */
+.slide{
+	font-size: 40px;
+	color: blue;
+	padding-top: 60px;
+	font-family: Papyrus;
+	overflow:hidden;
+	animation: textslide 3s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes textslide {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+/*     THIS IS FOR TYPINF ANIMATION    */
+.typing-demo {
+  padding-left:20px;
+  width: 40ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: times new roman;
+  font-size: 40px;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
