@@ -3,7 +3,7 @@
 This project was made with the use of HTML Tags & CSS Properties.
 
 ## CSS Properties Used:
-'Background-Color' - Helps choose a background colour of your choice (Format: RGB, HEX).
+###'Background-Color' - Helps choose a background colour of your choice (Format: RGB, HEX).
 'Font Family' - Allows to choose from a variet of fonts.
 'Font Size' - Control the size of each text.
 'Padding' - Gives specified amount of space.
