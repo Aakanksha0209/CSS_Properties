@@ -17,5 +17,7 @@ In the project directory, you can find :
 
 ## Learn More
 
-You can learn more in the [Cascading Style Sheet Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS).
+You can learn more in the [Cascading Style Sheet Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS).</br>
 To find more properties and functions visit [W3Schools](https://www.w3schools.com/).
+
+## Screenshots
