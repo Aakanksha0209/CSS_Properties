@@ -15,7 +15,7 @@ In the project directory, you can find :
  `Border Styles`</br> - Helps apply various borders (Solid, dotted, dashes).</br></br>
  `Text Alignments`</br> - Helps align texts (Center, Left, Right).</br></br>
  
- These are some of the properties that were used while the development of this project. You can find the [webpages here](https://github.com/amaandakhway1234/CSS_Properties/tree/main/Webpages).<br>
+ These are some of the properties that were used while the development of this project. You can find the [webpages here](https://github.com/amaandakhway1234/CSS_Properties/tree/main/Webpages).<br><br><br><br><br>
 
 
 
