@@ -10,3 +10,5 @@ This project was made with the use of HTML Tags & CSS Properties.
  `Padding` - Gives specified amount of space.</br>
  `Border Styles` - Helps apply various borders.</br>
  `Text Alignments` - Helps align texts.</br>
+
+You can learn more in the [Cascading Style Sheet Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS).
