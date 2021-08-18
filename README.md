@@ -13,4 +13,6 @@ In the project directory, you can find :
  `Border Styles`</br> - Helps apply various borders (Solid, dotted, dashes).</br></br>
  `Text Alignments`</br> - Helps align texts (Center, Left, Right).</br></br>
 
+## Learn More
+
 You can learn more in the [Cascading Style Sheet Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS).
